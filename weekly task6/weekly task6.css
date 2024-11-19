@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* flex-direction: column; */
+    /* align-items: center; */
+}
+.a1{
+    color: #000000ac;
+    background-color: transparent;
+}
+.a1:hover{
+    color: #3fcf34;
+    background-color: transparent;
+}

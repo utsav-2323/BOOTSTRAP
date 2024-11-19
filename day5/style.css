@@ -1,0 +1,105 @@
+.offcanvas-body{
+    border: 2px solid transparent;
+}
+.container-fluid{
+    border: 2px solid transparent;
+}
+.row-12{
+    height: 800px;
+    width: 100%;
+    border: 2px solid transparent;
+}
+#j1{
+    background-image: url(hero_1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    height: 300px;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 280px;
+    text-align: center;
+    border: 2px solid transparent;
+}
+.text h3{
+    font-size: 20px;
+    color: white;
+}
+.text h2{
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+}
+.text button{
+    height: 60px;
+    width: 170px;
+    font-weight: 600;
+    border: none;
+    border-radius: 5px;
+    background-color: #51EAEA;
+}
+.row-6{
+    height: 450px;
+    width: 100%;
+    margin-top: -90px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid transparent;
+}
+.row-3{
+    height: 250px;
+    width: 25%;
+    border: 2px solid transparent;
+}
+#j2{
+    background-color: #51EAEA;
+    text-align: center;
+    color: white;
+}
+#j2 h1{
+    font-size: 30px;
+    padding-top: 10px;
+}
+#j2 h2{
+    font-size: 25px;
+    padding-top: 10px;
+}
+#j2 h3{
+    font-size: 18px;
+    padding-top: 10px;
+}
+#j3{
+    background-color: #74D12B;
+    text-align: center;
+    color: white;
+}
+#j3 h1{
+    font-size: 30px;
+    padding-top: 10px;
+}
+#j3 h2{
+    font-size: 25px;
+    padding-top: 10px;
+}
+#j3 h3{
+    font-size: 18px;
+    padding-top: 10px;
+}
+#j4{
+    background-color: #FFC107;
+    text-align: center;
+    color: white;
+}
+#j4 h1{
+    font-size: 30px;
+    padding-top: 10px;
+}
+#j4 h2{
+    font-size: 25px;
+    padding-top: 10px;
+}
+#j4 h3{
+    font-size: 18px;
+    padding-top: 10px;
+}

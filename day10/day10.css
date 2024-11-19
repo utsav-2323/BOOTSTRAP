@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-nav{
+    margin-left: 110px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+#p1{
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.container-fluid{
+    border: 2px solid #000;
+    /* display: block; */
+    /* justify-content: space-evenly; */
+    /* flex-direction: column; */
+}
+.row{
+    border: 2px solid rebeccapurple;
+}
+.col{
+    border: 2px solid red;
+}

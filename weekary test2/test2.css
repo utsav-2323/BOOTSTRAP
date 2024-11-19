@@ -1,0 +1,38 @@
+.nav-link{
+    color: #1D2547;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+#sec6{
+    background-color: #F7F7FD;
+   
+}
+#sim img{
+width: 90px;
+height: 90px;
+border: 1px solid #fff;
+margin-left: 10px;
+}
+#sim h6{
+    color: #C9C4D0;
+}
+.icn i{
+    border: 1px solid white;
+    height:30px ;
+    width: 30px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.icn i:hover{
+    background-color:rgb(159,120,255) ;
+    border: none;
+}
+#footer{
+    background: rgb(29,37,71);
+
+}

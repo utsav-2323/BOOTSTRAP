@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .container-fluid{ */
+    /* border: 2px solid #000; */
+    /* display: flex;
+    justify-content: space-evenly;
+    align-items: center; */
+    /* flex-direction: column; */
+/* } */
+/* .row{
+    border: 2px solid rebeccapurple;
+}
+.col{
+    border: 2px solid red;
+    color: white;
+} */
+
+
+/* sec4 */
+
+.n1{
+    height: 216px;
+    width: 0px;
+    left: 0;
+    /* border: 1px solid red; */
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    transition: 0.2s;
+    /* display: none; */
+    
+}
+#h1:hover #n1{
+    width: 50px;
+}
+.n1 i{
+    font-size: 20px;
+    color: white;
+}
+.hide{
+    margin-right: 500px;
+}
+.a1{
+    margin-left: 50px;
+}

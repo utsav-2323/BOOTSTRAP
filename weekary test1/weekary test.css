@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    /* border: 2px solid #000; */
+}
+.row{
+    /* border: 2px solid rebeccapurple; */
+    
+}
+.col{
+    /* border: 2px solid red; */
+}
+button{
+    border: none;
+}
