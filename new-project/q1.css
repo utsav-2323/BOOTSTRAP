@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    background: url(1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.nav{
+    border: 1px solid red;
+}
+.logo{
+    border: 1px solid rosybrown;
+}
+.menu{
+    border: 1px solid royalblue;
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.sumb{
+    width: 55%;
+    height: 300px;
+    border: 1px solid wheat;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.sumb h1{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 700;
+}
+.sumb button{
+    /* border: 1px solid #000; */
+    border-radius: 30px;
+    background-color: #fff;
+    color: rgb(77, 64, 46);
+}
